@@ -1,2 +1,2 @@
 # woolway
-Additional commands for linux operating-systems.
+Hex editor for linux-based OS.
